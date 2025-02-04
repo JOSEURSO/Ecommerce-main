@@ -87,7 +87,8 @@
 /* carousel */
 .carousel_img{
    display: block;
-   width: 100%;
+      width: 70%;
+   margin-left: 60px;
 }
 
 .carousel_caption{
